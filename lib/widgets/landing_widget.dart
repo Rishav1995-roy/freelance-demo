@@ -46,7 +46,7 @@ class LandingWidget extends StatelessWidget {
           Container(
             margin: EdgeInsets.only(top: context.getPercentHeight(0.65)),
               width: context.getWidth(),
-              height: context.getPercentHeight(0.6),
+              height: context.getPercentHeight(0.72),
               decoration: BoxDecoration(
                 color: AppColors.greenColor,
                 borderRadius: const BorderRadius.all(Radius.circular(50)),
